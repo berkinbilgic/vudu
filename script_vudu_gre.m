@@ -1,6 +1,7 @@
 %--------------------------------------------------------------------------
 %% load undersampled EPI data at R=3, AP encoding in shot1, PA in shot2
 %% (after ghost correction, and removal of readout oversampling)
+%% 2021 07 01
 %--------------------------------------------------------------------------
 
 addpath utils/
